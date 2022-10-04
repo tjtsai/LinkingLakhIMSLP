@@ -4,7 +4,7 @@ This repository contains the code for the ICASSP 2020 paper "Towards Linking the
 
 The goal of this project is to match MIDI files in the Lakh dataset with sheet music images in the IMSLP dataset.
 
-You can find the paper [here](http://pages.hmc.edu/ttsai/assets/LinkingLakhIMSLP.pdf).
+You can find the paper [here](https://drive.google.com/file/d/18MRn023_bblRprd6ScRtRmsqZszfnOOp/view?usp=sharing).
 
 ## Citation
 
